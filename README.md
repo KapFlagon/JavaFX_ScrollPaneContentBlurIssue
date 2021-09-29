@@ -12,8 +12,11 @@ If you keep creating layers within layers using this view, they keep getting blu
 
 This gif illustrates the issue:
 
+![](https://github.com/KapFlagon/JavaFX_ScrollPaneContentBlurIssue/blob/main/images/BlurIssue.gif)
+
 
 
 ## Issue fix
 This is a gif illustrating the aplication of a fix for the behaviour:
 
+![](https://github.com/KapFlagon/JavaFX_ScrollPaneContentBlurIssue/blob/main/images/IssueFixed.gif)
