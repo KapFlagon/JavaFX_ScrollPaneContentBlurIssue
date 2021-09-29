@@ -1,0 +1,11 @@
+.idea/**
+out/**
+KanbanBo.iml
+gradle/**
+.gradle/**
+build/**
+gradlew.bat
+gradlew
+demos/*
+src/main/java/Notes.txt
+design/**
